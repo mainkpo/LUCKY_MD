@@ -94,7 +94,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "¯\_(ツ)_/¯ 𝙼𝙸𝙶𝙷𝚃𝚈 𝙺𝙸𝙳 ¯\_(ツ)_/¯",
+      "value": "M͎͍͐￫I͎͍͐￫G͎͍͐￫H͎͍͐￫T͎͍͐￫Y͎͍͐￫ K͎͍͐￫I͎͍͐￫D͎͍͐￫",
       "required": false
     },
     "URL": {
@@ -139,7 +139,7 @@
     },
     "AUTO_BLOCK": {
       "description": "Type true if you want bot to automatically  block those who spam your dm ",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "AUTO_REACTION": {
