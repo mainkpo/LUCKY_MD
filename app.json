@@ -1,5 +1,5 @@
 {
-  "name": "✧⁠LUCKY_MD✧ MULT DEVICE",
+  "name": "✧⁠M͎͍͐￫I͎͍͐￫G͎͍͐￫H͎͍͐￫T͎͍͐￫Y͎͍͐￫ K͎͍͐￫I͎͍͐￫D͎͍͐￫✧ MULT DEVICE",
   "description": "Lucky Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping...",
   "keywords": [
     "bot",
@@ -12,8 +12,8 @@
   "succes_url": "/",
   "stack": "container",
   "env": {
-    "PREFIX": {
-      "description": "Choose your bot's prefix",
+    "PREFIX": {.
+      "description": ".",
       "value": ".",
       "required": true
     },
@@ -64,7 +64,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "✧⁠LUCKY_MD✧",
+      "value": "✧⁠M͎͍͐￫I͎͍͐￫G͎͍͐￫H͎͍͐￫T͎͍͐￫Y͎͍͐￫ K͎͍͐￫I͎͍͐￫D͎͍͐￫✧",
       "required": false 
     },
     "GROUP_HANDLE": {
@@ -94,7 +94,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "",
+      "value": "M͎͍͐￫I͎͍͐￫G͎͍͐￫H͎͍͐￫T͎͍͐￫Y͎͍͐￫ K͎͍͐￫I͎͍͐￫D͎͍͐￫",
       "required": false
     },
     "URL": {
@@ -109,7 +109,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "2349129338499",
       "required": false
     },
     "WARN_COUNT": {
