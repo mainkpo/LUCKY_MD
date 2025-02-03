@@ -1,5 +1,5 @@
 {
-  "name": "✧⁠LUCKY_MD✧ MULT DEVICE",
+  "name": "M͎͍͐￫I͎͍͐￫G͎͍͐￫H͎͍͐￫T͎͍͐￫Y͎͍͐￫ K͎͍͐￫I͎͍͐￫D͎͍͐￫ MULT DEVICE",
   "description": "Lucky Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping...",
   "keywords": [
     "bot",
@@ -12,7 +12,7 @@
   "succes_url": "/",
   "stack": "container",
   "env": {
-    "PREFIX": {
+    "PREFIX": {.
       "description": "Choose your bot's prefix",
       "value": ".",
       "required": true
@@ -64,7 +64,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "✧⁠LUCKY_MD✧",
+      "value": "✧M͎͍͐￫I͎͍͐￫G͎͍͐￫H͎͍͐￫T͎͍͐￫Y͎͍͐￫ K͎͍͐￫I͎͍͐￫D͎͍͐￫✧",
       "required": false 
     },
     "GROUP_HANDLE": {
@@ -89,12 +89,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0VxZzVGOFNvT1h4TU8vZURMM2hvR1hpa1p2Wnc2TE1kNWIxdzZuYnBXQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUmNUY1BCU3ZiOW4yNE8xYndwTEpCLzlJQlVsdEpaWitaUkxkeUFxZEUwRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlRU9yUEFhSVBRbkI1ajlTMjRoWWEzWFM0aTRJY0VjdVcwL1V3NHV6TDBFPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4YXAxSlRnM3h3bWJENk9Cc3hGZEorVzgvTXowVkVhMUYrOXg2YXNGcnpRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjJGaVcwVFhZUDF3aEhVOFduM0EvNzlKdSs1N0huajV4Nysva2RqSnlISHM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ijd1eHdWNjg5VGtQVGZpMDZxWTVXV3VXcHRocXlsS0pVT1kzdk52K3N6Vkk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS015THcvejRqRGRYbVZrcmNpSWlhYS9SVFNVMnZZUUJBR1ZmMWdxbnEzWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUjVWMzdQU0RPS3RKa29UL2RLVEdGK25oZklqRGJuYTBBK3pyK3N4QWV3Zz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InphZ0VMVVZQZFlUTFIvN0cwTHF2SGQwbFYwVEdNQi9ud2dZdUpqQUtyRWxqWi9hYXZhWlFrTjQ1UFU5K1hTN3Zab1phT2J6NDloN2dSQlR2dXFRYkN3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MzMsImFkdlNlY3JldEtleSI6IkNPdXl2SW1jTnZucXY1UTRZVzE3WHVhdkpzMDJMQ2M1VEgrRDRBVlgyLzQ9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Ik1hYktibG1xVEM2NVFMYnpnSHNkV0EiLCJwaG9uZUlkIjoiYWFhM2YwZGEtODRkYS00YTdiLThlMWQtNzBkNzAxOGI1YjJhIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImF1UFlHQnh0VVpSZ0xVZHdKdW1FRk9tODI5ND0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIvK0VxdFdFbFBtUFMrM0ZRL2lQNGxyODRkeFE9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiUUMyTTk5V1IiLCJtZSI6eyJpZCI6IjIzNDkxMjkzMzg0OTk6MjVAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiTc2OzY3NkO+/q0nNjs2NzZDvv6tHzY7Njc2Q77+rSM2OzY3NkO+/q1TNjs2NzZDvv6tZzY7Njc2Q77+rIEvNjs2NzZDvv6tJzY7Njc2Q77+rRM2OzY3NkO+/qyJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDUGZLN0w0SEVMeW5ncjBHR0JBZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiTFgxemxZQmtIdDBJczUzektXd096bG1RVUpEY0wwQWRScjloby9CancxQT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiZFNCZVBaTFRocy9hZEtzTU5sWjdlc3Fia20wZTgwYkpmZEVmQXl5SCtrTjVabWhHTGsvSVZlOE9lVlFweWkybnFDc0xkYTVvR3pXSWdPVGYyUWtJQ2c9PSIsImRldmljZVNpZ25hdHVyZSI6ImxSckNrSFZtTnVtcitOc0wrZ0UxL2x5cTF0dE43b3NScWNHUFRsYU1pMncrbnRmckZqZXhUNmp2UnlXRVdpM1hCTDlNc3FyVjJaRFVSVFlYaUkycUNBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjM0OTEyOTMzODQ5OToyNUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJTMTljNVdBWkI3ZENMT2Q4eWxzRHM1WmtGQ1EzQzlBSFVhL1lhUHdZOE5RIn19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzM4NTc2ODQxfQ==",
       "required": true
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "",
+      "value": "¯\_(ツ)_/¯ 𝙼𝙸𝙶𝙷𝚃𝚈 𝙺𝙸𝙳 ¯\_(ツ)_/¯",
       "required": false
     },
     "URL": {
@@ -109,7 +109,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "2349129338499",
       "required": false
     },
     "WARN_COUNT": {
